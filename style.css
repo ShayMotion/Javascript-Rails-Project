@@ -1,0 +1,105 @@
+body {
+    background-color: darkcyan;
+    padding-top: 150px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/104/557/original/free-vegetables-market-vector.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+
+.box1 {
+    background-color:darkseagreen;
+    width: 300px;
+    height: 200px;
+}
+    .box2 {
+    background-color:darkseagreen;
+    width: 300px;
+    height: 200px;
+}
+
+.box3 {
+    background-color: darkslategray;
+    <left>
+    width: 200px;
+    height: 50px;
+}
+
+.box4 {
+    background-color: darkslategray;
+    <left>
+    width: 100px;
+    height: 50px;
+}
+    .highlight-text {
+        color: white;
+        font-size: 30px;
+    }
+
+    h1 {
+        color: whitesmoke;
+        font-style; italic;
+        font-size 100px;
+    
+    }
+
+    h2 {
+        color: white;
+        font-size: 25px;
+    }
+    
+    h4 {
+        color: black;
+        font-size: 25px;
+    }
+    p {
+        color: rgb(218, 255, 218);
+        font-size: 20px;
+    }
+
+    header {
+        background-color: rgba(47, 79, 79, 0.781);
+        height: 194px;
+        
+    
+    }
+
+    nav {
+     background-color: rgba(0, 0, 0, 0.63);
+     text-align: center;
+     padding-top: 14px; 
+     padding-bottom: 14px;
+
+     
+    }
+
+    main {
+        background-color: darkcyan;
+        height: 200px;
+     
+    }
+
+    footer {
+        background-color: darkcyan;
+     height 100px;
+   
+    }
+
+    .container {
+        margin-left: auto;
+        margin-right:auto;
+    }
+
+    a{
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    nav a {
+        text-decoration: none; 
+        font-size: 24px;
+        padding-left: 50px;
+        padding-right: 10px;
+
+    }
